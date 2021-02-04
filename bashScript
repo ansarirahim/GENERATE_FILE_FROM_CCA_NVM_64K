@@ -1,0 +1,4 @@
+#!/bin/bash
+#GENERATE_FILE_FROM_CCA_NVM_64K
+REFRESH_PC_DRIVE
+/root/CRc41Flash/readccaCRC41ToFileNVM_64K_Rev1 32
